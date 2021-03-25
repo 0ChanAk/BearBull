@@ -16,7 +16,7 @@ will be UPDATED later on..
 
 ## How To Contribute
 
-Just create a issue or Fork the repo.
+Please fork this repository and then issue a Pull Requests for review.
 
 
 Copyrights 0ChanAk 2021

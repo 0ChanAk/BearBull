@@ -1,7 +1,11 @@
 # BearBull
 
-##Introduction
+This is a simple practice project to revise concepts of GIT and GITHUB together!!
 
-##Purpose
+## Introduction
 
-##How To Contribute
+## Purpose
+
+## Deployment
+
+## How To Contribute

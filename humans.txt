@@ -6,7 +6,7 @@
  
  # THANKS
  
-	<name>
+	I want to thank myself for taking out time and revising GIT concepts. I appreciate everyone for recognising my work. 
 	
 # TECHNOLOGY COLOPHON
 	

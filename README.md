@@ -4,7 +4,7 @@ This is a simple practice project to revise concepts of GIT and GITHUB together!
 
 ## Introduction
 
-This is a interesting story of Bear and Bull.
+This is a interesting story of Bear and Bull. You need to check out yourself to find out more about this story. Hope you have good time reading them.
 
 ## Purpose
 
